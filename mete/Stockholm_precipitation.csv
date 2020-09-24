@@ -1,0 +1,21 @@
+﻿Stationsnamn;Klimatnummer;Mäthöjd (meter över marken)
+Stockholm;98210;2.0
+
+Parameternamn;Beskrivning;Enhet
+Nederbördsmängd;summa 1 timme, 1 gång/tim;millimetre
+
+Tidsperiod (fr.o.m);Tidsperiod (t.o.m);Höjd (meter över havet);Latitud (decimalgrader);Longitud (decimalgrader)
+2014-04-01 00:00:00;2014-04-30 23:59:59;43.133;59.3417;18.0549
+
+Datum;Tid (UTC);Nederbördsmängd;Kvalitet;;Tidsutsnitt:
+;;;;;Kvalitetskontrollerade historiska data (utom de senaste 3 mån)
+;;;;;Tidsperiod (fr.o.m.) = 2014-04-01 00:00:00 (UTC)
+;;;;;Tidsperiod (t.o.m.) = 2014-04-30 23:59:59 (UTC)
+;;;;;Samplingstid = 1 timme
+;;;;;
+;;;;;Kvalitetskoderna:
+;;;;;Grön (G) = Kontrollerade och godkända värden.
+;;;;;Gul (Y) = Misstänkta eller aggregerade värden. Grovt kontrollerade arkivdata och okontrollerade realtidsdata (senaste 2 tim).
+;;;;;
+;;;;;Orsaker till saknade data:
+;;;;;  stationen eller givaren har varit ur funktion.
